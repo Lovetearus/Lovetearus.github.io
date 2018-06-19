@@ -1,4 +1,4 @@
 # Lovetearus.github.io
 blog res.
 
-[index](lovetearus.github.io/index.html)
+[index](https://lovetearus.github.io/index.html)
